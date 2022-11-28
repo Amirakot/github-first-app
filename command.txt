@@ -1,0 +1,19 @@
+
+1.git init
+2. git status
+On branch main
+3.git clone ""
+4. touch index.html
+5.git add .
+6. gi commit -m "first commit"
+7.git push --set-upstream origin main
+git checkout main
+$ git checkout feature/adding-styles
+
+5.git status
+6.ls day1/repo/github-first-app (main)
+$ git merge feature/adding-styles
+git push
+git branch
+to see our branch
+
